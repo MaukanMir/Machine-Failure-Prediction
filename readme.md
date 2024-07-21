@@ -16,3 +16,5 @@
 - IP: Input pressure to the machine.
 - Temperature: The operating temperature of the machine.
 - fail: Binary indicator of machine failure (1 for failure, 0 for no failure).
+
+#### Link to Data set: https://www.kaggle.com/datasets/umerrtx/machine-failure-prediction-using-sensor-data/data
